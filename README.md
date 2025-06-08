@@ -79,19 +79,37 @@ Leading **6 ML engineers** implementing AI strategy across the complete home ins
 | **Team Leadership** | Agile, Cross-functional Management | Built 15-person team from scratch |
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,aws,tensorflow,docker,kubernetes" height="32" alt="Core Stack" style="margin-right: 4px">
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,spark,tableau" height="32" alt="Data Stack" style="margin-right: 4px">
-<img src="https://skillicons.dev/icons?i=jupyter,git,linux,vscode" height="32" alt="Tools" style="margin-right: 4px">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+
 </p>
 
----
+----
 
 ## 📈 GitHub Activity & Contributions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeremygu&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygu&layout=compact&langs_count=8&theme=vue-dark&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgu9&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgu9&layout=compact&langs_count=8&theme=vue-dark&border_radius=10"/>
 
 </div>
 
@@ -180,14 +198,14 @@ I'm passionate about scaling data science organizations and driving AI adoption 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datastrategy/)
 [![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wgu9@stanford.edu)
 
-**📍 San Francisco Bay Area** | **💼 Open to Executive Opportunities**
+**📍 San Francisco Bay Area** | **💼 Open to Meet People with Similar Mindsets**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeremygu&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=wgu9&color=0e75b6&style=flat-square" alt="Profile Views"/>
   
   *Last updated: Automatically via GitHub Actions • View source in `.github/workflows/`*
 </div>
