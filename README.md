@@ -29,18 +29,11 @@ Leading **6 ML engineers** implementing AI strategy across the complete home ins
 
 ## 📊 Leadership Impact & Key Achievements
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💰 Business Impact
 - **$2-3M annually** saved through fraud detection at Shipt
-- **20% ROAS improvement** via personalized ads at Stitch Fix  
+- **20% ROAS improvement** via personalized ads at Stitch Fix
 - **$100M/year** ad budget management across channels
 - **3.1M new users** acquired via ML systems at Uber
-
-</td>
-<td width="50%">
 
 ### 👥 Team Leadership
 - **15-person team** built from 1 at Shipt (Director level)
@@ -48,35 +41,42 @@ Leading **6 ML engineers** implementing AI strategy across the complete home ins
 - **13 engineers/analysts** led cross-functionally for IPO
 - **700+ educators** trained in AI/LLM best practices
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎓 Academic Excellence & Teaching
 
-<div align="center">
+**🎓 Stanford University**
+Executive Program Graduate & Instructor | SEP '25 + **4.9/5.0** rating
 
-| Institution | Role | Achievement |
-|-------------|------|-------------|
-| **Stanford University** | Executive Program Graduate & Instructor | SEP '25 + **4.9/5.0** rating |
-| **University of San Francisco** | Adjunct Professor | Teaching Data Streaming (Kafka, MLflow) |
-| **University of Washington** | MS Statistics | Statistical Learning Specialization |
+**👨‍🏫 University of San Francisco**
+Adjunct Professor | Teaching Data Streaming (Kafka, MLflow)
 
-</div>
+**📊 University of Washington**
+MS Statistics | Statistical Learning Specialization
 
 ---
 
 ## 🛠️ Technical Leadership & Architecture
 
-| **Domain** | **Technologies & Platforms** | **Business Impact** |
-|------------|------------------------------|-------------------|
-| **AI/ML Strategy** | Python, TensorFlow, PyTorch, LLM/RAG | Built fraud detection saving $2-3M annually |
-| **Cloud Architecture** | AWS (EC2, S3, Redshift), Azure, Databricks | Scaled systems for 50k+ daily transactions |
-| **Data Engineering** | Kafka, Spark, Airflow, MLflow | Reduced processing time from 2hr to 40min |
-| **Analytics Platforms** | Statistical Experimentation, A/B Testing | 20% ROAS improvement, 3.1M user acquisition |
-| **Team Leadership** | Agile, Cross-functional Management | Built 15-person team from scratch |
+**🤖 AI/ML Strategy**
+- Technologies: Python, TensorFlow, PyTorch, LLM/RAG
+- Impact: Built fraud detection saving $2-3M annually
+
+**☁️ Cloud Architecture**
+- Technologies: AWS (EC2, S3, Redshift), Azure, Databricks
+- Impact: Scaled systems for 50k+ daily transactions
+
+**⚙️ Data Engineering**
+- Technologies: Kafka, Spark, Airflow, MLflow
+- Impact: Reduced processing time from 2hr to 40min
+
+**📊 Analytics Platforms**
+- Technologies: Statistical Experimentation, A/B Testing
+- Impact: 20% ROAS improvement, 3.1M user acquisition
+
+**👥 Team Leadership**
+- Approach: Agile, Cross-functional Management
+- Impact: Built 15-person team from scratch
 
 <p align="left">
 
@@ -131,15 +131,14 @@ Leading **6 ML engineers** implementing AI strategy across the complete home ins
 
 ## 🌟 Professional Activities & Recognition
 
-<div align="center">
+**📋 Advisory Board** • Data Science Conference (2016-2020)
+Event strategy & speaker curation
 
-| Role | Organization | Years | Impact |
-|------|--------------|-------|--------|
-| **Advisory Board** | Data Science Conference | 2016-2020 | Event strategy & speaker curation |
-| **Advisory Board** | AI World Conference | 2018-2020 | Business strategy sessions |
-| **Elected Officer** | American Statistical Association | 2015-2018 | Bay Area & Puget Sound chapters |
+**📋 Advisory Board** • AI World Conference (2018-2020)
+Business strategy sessions
 
-</div>
+**🏆 Elected Officer** • American Statistical Association (2015-2018)
+Bay Area & Puget Sound chapters
 
 ---
 
@@ -170,15 +169,20 @@ mindmap
 
 ## 📊 Executive Metrics Dashboard
 
-<div align="center">
+**📈 Career Progression**
+- 12+ Years Leadership
+- 5 Major Companies
+- 700+ Educators Trained
 
-**📈 Career Progression** | **🎯 Current Impact** | **🏆 Recognition**
-:---:|:---:|:---:
-12+ Years Leadership | 6 ML Engineers Led | Stanford SEP Graduate
-5 Major Companies | $M+ Cost Savings | 4.9/5.0 Teaching Rating
-700+ Educators Trained | 25% Efficiency Gains | Industry Speaker
+**🎯 Current Impact**
+- 6 ML Engineers Led
+- $M+ Cost Savings
+- 25% Efficiency Gains
 
-</div>
+**🏆 Recognition**
+- Stanford SEP Graduate
+- 4.9/5.0 Teaching Rating
+- Industry Speaker
 
 ---
 
@@ -198,7 +202,7 @@ I'm passionate about scaling data science organizations and driving AI adoption 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datastrategy/)
 [![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wgu9@stanford.edu)
 
-**📍 San Francisco Bay Area** | **💼 Open to Meet People with Similar Mindsets**
+**📍 San Francisco Bay Area** | **💼 Open to Strategic Collaborations & Advisory Opportunities**
 
 </div>
 
