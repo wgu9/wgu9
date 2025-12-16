@@ -637,8 +637,8 @@ I'm passionate about translating AI breakthroughs into business outcomes and sca
 
 | 🎓 **Teaching** | 📝 **Publications** | 🎤 **Speaking** | 💻 **Code** |
 |:---:|:---:|:---:|:---:|
-| [Stanford Courses](https://continuingstudies.stanford.edu) | [Uber Engineering Blog](https://www.uber.com/en-SE/blog/xp/) | [Conference History](#-speaking-engagements--conferences) | [GitHub Repos](#-github-activity--contributions) |
-| [USF Data Streaming](https://www.usfca.edu) | [Journal Publications](#-technical-publications--writing) | [Speaking Topics](#-speaking-topics) | [Featured Projects](#-featured-aidata-projects--experiments) |
+| [Stanford Courses](https://continuingstudies.stanford.edu) | [Uber Engineering Blog](https://www.uber.com/en-SE/blog/xp/) | [Conference History](#%EF%B8%8F-speaking-engagements--conferences) | [GitHub Repos](#-github-activity--contributions) |
+| [USF Data Streaming](https://www.usfca.edu) | [Journal Publications](#-technical-publications--writing) | [Speaking Topics](#%EF%B8%8F-speaking-topics) | [Featured Projects](#-featured-aidata-projects--experiments) |
 
 </div>
 
