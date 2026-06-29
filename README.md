@@ -38,10 +38,9 @@ Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousRes
 
 ### GitHub Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wgu9&show_icons=true&hide_border=true&rank_icon=github" alt="Jeremy Gu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgu9&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+- 8,000+ public GitHub contributions shown on my profile.
+- Recent upstream work spans AI coding agents, ML libraries, embedding benchmarks, and geospatial AI.
+- I focus on small, owner-scoped fixes with tests or clear validation notes.
 
 ### Experience
 
