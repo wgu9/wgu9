@@ -36,11 +36,23 @@ Selected upstream contributions by `wgu9`:
 
 Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousResearch/hermes-agent/pull/51678) includes maintainer-merged work derived from my contribution.
 
-### GitHub Activity
+### Activity & Languages
 
-- 8,000+ public GitHub contributions shown on my profile.
-- Recent upstream work spans AI coding agents, ML libraries, embedding benchmarks, and geospatial AI.
-- I focus on small, owner-scoped fixes with tests or clear validation notes.
+<p>
+  <img src="https://img.shields.io/badge/Python-primary-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-ML%20systems-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-agent%20ecosystem-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-data%20systems-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/ML%20%26%20Eval-reproducible%20workflows-111827?style=flat-square" alt="ML and evaluation" />
+</p>
+
+| Signal | Evidence |
+|---|---|
+| GitHub activity | 8,000+ public contributions shown on my profile |
+| Primary OSS language | Python across OpenHands, scikit-learn, MTEB, and segment-geospatial contributions |
+| Systems exposure | C++/native Python bindings in MLX Array API work |
+| Agent ecosystem | OpenHands contribution in an AI software-engineering agent codebase |
+| Contribution style | Small, owner-scoped fixes with tests or validation notes |
 
 ### Experience
 
