@@ -58,7 +58,7 @@ Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousRes
 
 ### Education
 
-- **Stanford University**, Graduate School of Business - 2024-2026
+- **Stanford University**, Graduate School of Business and CS Graduate Studies - 2024-2026; GPA 4.0/4.0 in Computer Science Courses
 - **University of Washington** - MS, Statistics
 - **University of Minnesota** - BS, Mathematics & Statistics
 
