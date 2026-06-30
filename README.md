@@ -46,14 +46,6 @@ Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousRes
   <img src="https://img.shields.io/badge/ML%20%26%20Eval-reproducible%20workflows-111827?style=flat-square" alt="ML and evaluation" />
 </p>
 
-| Signal | Evidence |
-|---|---|
-| GitHub activity | 8,000+ public contributions shown on my profile |
-| Primary OSS language | Python across OpenHands, scikit-learn, MTEB, and segment-geospatial contributions |
-| Systems exposure | C++/native Python bindings in MLX Array API work |
-| Agent ecosystem | OpenHands contribution in an AI software-engineering agent codebase |
-| Contribution style | Small, owner-scoped fixes with tests or validation notes |
-
 ### Experience
 
 | Year | Role |
