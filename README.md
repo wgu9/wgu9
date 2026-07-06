@@ -5,11 +5,8 @@ San Francisco Bay Area
 
 I build production data and ML systems, and lead the teams that ship them. My current work is focused on LLM applications, RAG, coding agents, evaluation workflows, and the reliability layer around AI systems.
 
-[![Homepage](https://img.shields.io/badge/Homepage-wgu9.github.io-0A66C2?style=for-the-badge)](https://wgu9.github.io/wgu9/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-datastrategy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/datastrategy/)
 [![Email](https://img.shields.io/badge/Email-jeremygu%40alumni.gsb.stanford.edu-6B7280?style=for-the-badge)](mailto:jeremygu@alumni.gsb.stanford.edu)
-
-Open to senior data science, ML, and AI engineering roles.
 
 ---
 
@@ -68,4 +65,4 @@ Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousRes
 
 ### Connect
 
-[Homepage](https://wgu9.github.io/wgu9/) | [LinkedIn](https://www.linkedin.com/in/datastrategy/) | [Email](mailto:jeremygu@alumni.gsb.stanford.edu)
+[LinkedIn](https://www.linkedin.com/in/datastrategy/) | [Email](mailto:jeremygu@alumni.gsb.stanford.edu)
