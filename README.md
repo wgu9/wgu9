@@ -5,9 +5,23 @@ San Francisco Bay Area
 
 I build production data and ML systems, lead the teams that ship them, and teach applied data science. My current work spans LLM applications, RAG, coding agents, evaluation workflows, and the reliability layer around AI systems.
 
-[Teaching](#teaching) · [Open Source](#open-source-contributions) · [Leadership](#leadership--experience) · [LinkedIn](https://www.linkedin.com/in/datastrategy/) · [Email](mailto:jeremygu@alumni.gsb.stanford.edu)
+[Leadership](#leadership--experience) · [Education](#education) · [Teaching](#teaching) · [Open Source](#open-source-contributions) · [LinkedIn](https://www.linkedin.com/in/datastrategy/) · [Email](mailto:jeremygu@alumni.gsb.stanford.edu)
 
 ---
+
+### Leadership & Experience
+
+- **SageSure — Director of Data Science (2025):** Led AI and data products for underwriting, claims, support, RAG, computer-vision triage, and human-in-the-loop evaluation
+- **Shipt — Director of Data Science (2021–2024):** Built and led a 17-person DS/ML team across marketplace optimization, ETA, fraud and risk, experimentation, and retail analytics
+- **Stitch Fix — Data Science Manager (2019–2021):** Led channel optimization, marketing measurement, incrementality, LTV, and value-based bidding
+- **Uber — Tech Lead Manager, Strategic Finance (2017–2019):** Led finance data science for forecasting, planning, growth analytics, and executive decision support
+- **Amazon Web Services — Applied Scientist (2014–2017):** Built ML and analytics systems for marketing, sales, recommendations, ads, and customer-growth decisions
+
+### Education
+
+- **Stanford University** — Graduate School of Business and CS Graduate Studies, 2024–2026; 4.0/4.0 GPA in computer science coursework
+- **University of Washington** — MS in Statistics
+- **University of Minnesota** — BS in Mathematics and Statistics
 
 ### Teaching
 
@@ -59,20 +73,6 @@ Current work in review spans AI agents, model serving, ML frameworks, retrieval 
   <img src="https://img.shields.io/badge/SQL-data%20systems-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/ML%20%26%20Eval-reproducible%20workflows-111827?style=flat-square" alt="ML and evaluation" />
 </p>
-
-### Leadership & Experience
-
-- **SageSure — Director of Data Science (2025):** Led AI and data products for underwriting, claims, support, RAG, computer-vision triage, and human-in-the-loop evaluation
-- **Shipt — Director of Data Science (2021–2024):** Built and led a 17-person DS/ML team across marketplace optimization, ETA, fraud and risk, experimentation, and retail analytics
-- **Stitch Fix — Data Science Manager (2019–2021):** Led channel optimization, marketing measurement, incrementality, LTV, and value-based bidding
-- **Uber — Tech Lead Manager, Strategic Finance (2017–2019):** Led finance data science for forecasting, planning, growth analytics, and executive decision support
-- **Amazon Web Services — Applied Scientist (2014–2017):** Built ML and analytics systems for marketing, sales, recommendations, ads, and customer-growth decisions
-
-### Education
-
-- **Stanford University** — Graduate School of Business and CS Graduate Studies, 2024–2026; 4.0/4.0 GPA in computer science coursework
-- **University of Washington** — MS in Statistics
-- **University of Minnesota** — BS in Mathematics and Statistics
 
 ---
 
