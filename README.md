@@ -23,18 +23,18 @@ Recent merged upstream contributions by `wgu9`:
 
 | Project | Contribution | Area |
 |---|---|---|
-| [dmlc/xgboost #12280](https://github.com/dmlc/xgboost/pull/12280) | Included the license file in Python wheel metadata | ML infrastructure, packaging |
 | [lightgbm-org/LightGBM #7348](https://github.com/lightgbm-org/LightGBM/pull/7348) | Made incomplete binary-file writes fail safely | ML systems, C++ reliability |
-| [embeddings-benchmark/leaderboard-frontend #32](https://github.com/embeddings-benchmark/leaderboard-frontend/pull/32) | Prevented late-interaction and open-weights color collisions | Evaluation UX, visualization |
-| [OpenHands/OpenHands #14810](https://github.com/OpenHands/OpenHands/pull/14810) | Wrote trajectory exports as explicit UTF-8 with regression coverage | AI coding agents, reproducibility |
-| [OpenHands/OpenHands #15004](https://github.com/OpenHands/OpenHands/pull/15004) | Normalized automation-service HTTP failure logging with tests | AI agent operations, observability |
-| [scikit-learn/scikit-learn #34317](https://github.com/scikit-learn/scikit-learn/pull/34317) | Made Array API metric references explicit | ML documentation, API clarity |
-| [ml-explore/mlx #3748](https://github.com/ml-explore/mlx/pull/3748) | Added `vecdot` to the Array API namespace | ML systems, array APIs |
-| [ml-explore/mlx #3749](https://github.com/ml-explore/mlx/pull/3749) | Added `matrix_norm` to the Array API namespace | ML systems, linear algebra |
-| [embeddings-benchmark/mteb #4812](https://github.com/embeddings-benchmark/mteb/pull/4812) | Added `topk-io/Iso-ModernColBERT` model metadata | Embeddings, retrieval eval |
-| [embeddings-benchmark/mteb #4866](https://github.com/embeddings-benchmark/mteb/pull/4866) | Fixed BelebeleRetrieval language-config loading | Retrieval eval, benchmark reliability |
+| [dmlc/xgboost #12280](https://github.com/dmlc/xgboost/pull/12280) | Included the license file in Python wheel metadata | ML infrastructure, packaging |
 | [opengeos/segment-geospatial #538](https://github.com/opengeos/segment-geospatial/pull/538) | Added SAM 3.1 model support | Geospatial AI |
+| [ml-explore/mlx #3748](https://github.com/ml-explore/mlx/pull/3748) | Added `vecdot` to the Array API namespace | ML systems, array APIs |
+| [OpenHands/OpenHands #14810](https://github.com/OpenHands/OpenHands/pull/14810) | Wrote trajectory exports as explicit UTF-8 with regression coverage | AI coding agents, reproducibility |
+| [scikit-learn/scikit-learn #34317](https://github.com/scikit-learn/scikit-learn/pull/34317) | Made Array API metric references explicit | ML documentation, API clarity |
+| [embeddings-benchmark/mteb #4866](https://github.com/embeddings-benchmark/mteb/pull/4866) | Fixed BelebeleRetrieval language-config loading | Retrieval eval, benchmark reliability |
+| [OpenHands/OpenHands #15004](https://github.com/OpenHands/OpenHands/pull/15004) | Normalized automation-service HTTP failure logging with tests | AI agent operations, observability |
+| [ml-explore/mlx #3749](https://github.com/ml-explore/mlx/pull/3749) | Added `matrix_norm` to the Array API namespace | ML systems, linear algebra |
 | [opengeos/segment-geospatial #537](https://github.com/opengeos/segment-geospatial/pull/537) | Added fast tests for UTM conversions | Geospatial testing |
+| [embeddings-benchmark/mteb #4812](https://github.com/embeddings-benchmark/mteb/pull/4812) | Added `topk-io/Iso-ModernColBERT` model metadata | Embeddings, retrieval eval |
+| [embeddings-benchmark/leaderboard-frontend #32](https://github.com/embeddings-benchmark/leaderboard-frontend/pull/32) | Prevented late-interaction and open-weights color collisions | Evaluation UX, visualization |
 
 Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousResearch/hermes-agent/pull/51678) includes maintainer-merged work derived from my contribution.
 
