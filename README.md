@@ -25,17 +25,17 @@ I build production data and ML systems, lead the teams that ship them, and teach
 
 ### Teaching
 
-I teach applied data and AI courses that connect technical foundations with production practice. Public course materials will grow here as additional courses are released.
+I teach applied data and AI courses that connect technical foundations with production practice.
+
+**Public course materials**
 
 - **[MSDS 682: Data Stream Processing — Summer 2026](https://wgu9.github.io/msds-682-su2026/)** · University of San Francisco · [Course repository](https://github.com/wgu9/msds-682-su2026)
+
+**Other courses taught**
+
 - **BUS 36** · Summer 2024 and Spring 2025
 
-### What I Work On
-
-- LLM, RAG, and agent systems
-- Evaluation, experimentation, and causal inference
-- ML platforms, data products, and production decision systems
-- Reproducible workflows that turn ad-hoc judgment into measurable processes
+Additional public course materials will be added as they are released.
 
 ### Open Source Contributions
 
@@ -63,19 +63,3 @@ Selected merged upstream contributions by `wgu9`, ordered by impact:
 Authorship credit: [NousResearch/hermes-agent #51678](https://github.com/NousResearch/hermes-agent/pull/51678) includes maintainer-merged work derived from my contribution.
 
 Current work in review spans AI agents, model serving, ML frameworks, retrieval evaluation, and systems reliability. See [open public pull requests](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Awgu9+archived%3Afalse).
-
-### Activity & Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-primary-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-ML%20systems-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-agent%20ecosystem-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-data%20systems-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/ML%20%26%20Eval-reproducible%20workflows-111827?style=flat-square" alt="ML and evaluation" />
-</p>
-
----
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/datastrategy/) | [Email](mailto:jeremygu@alumni.gsb.stanford.edu)
