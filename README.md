@@ -39,9 +39,10 @@ Additional public course materials will be added as they are released.
 
 ### Open Source Contributions
 
-Selected merged upstream contributions by `wgu9`, ordered by impact:
+Selected from 16 merged upstream pull requests by `wgu9`, ordered by impact:
 
 - **[LightGBM #7348](https://github.com/lightgbm-org/LightGBM/pull/7348)** — Made incomplete binary-file writes fail safely in C++
+- **[MLX #4086](https://github.com/ml-explore/mlx/pull/4086)** — Fixed strict lexicographic ordering for `Device` and `Stream`
 - **[XGBoost #12280](https://github.com/dmlc/xgboost/pull/12280)** — Included the license file in Python wheel metadata
 - **[segment-geospatial #538](https://github.com/opengeos/segment-geospatial/pull/538)** — Added SAM 3.1 model support
 - **[MLX #3748](https://github.com/ml-explore/mlx/pull/3748)** — Added `vecdot` to the Array API namespace
@@ -51,6 +52,9 @@ Selected merged upstream contributions by `wgu9`, ordered by impact:
 <details>
 <summary><strong>More merged upstream contributions</strong></summary>
 
+- **[MTEB #4813](https://github.com/embeddings-benchmark/mteb/pull/4813)** — Added Perplexity PPLX Embed v1 model metadata
+- **[TruLens #2549](https://github.com/truera/trulens/pull/2549)** — Added prompt-template rendering integration coverage
+- **[MTEB #4876](https://github.com/embeddings-benchmark/mteb/pull/4876)** — Added the cleaned STSBenchmark v2 dataset
 - **[MTEB #4866](https://github.com/embeddings-benchmark/mteb/pull/4866)** — Fixed BelebeleRetrieval language-config loading
 - **[OpenHands #15004](https://github.com/OpenHands/OpenHands/pull/15004)** — Normalized automation-service HTTP failure logging with tests
 - **[MLX #3749](https://github.com/ml-explore/mlx/pull/3749)** — Added `matrix_norm` to the Array API namespace
