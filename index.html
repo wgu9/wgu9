@@ -228,6 +228,18 @@ footer{padding:6vh 0 5vh;border-top:1px solid var(--line);margin-top:2vh}
   html{scroll-behavior:auto}
   .glow{display:none}
 }
+
+/* Teaching: an editorial course list scoped to this section. */
+#teaching .teaching-intro{max-width:62ch;color:var(--ink-dim);font-size:1.1rem;margin-bottom:22px}
+#teaching .teaching-course{display:grid;grid-template-columns:150px 1fr;gap:24px;padding:24px 0;border-bottom:1px solid var(--line)}
+#teaching .teaching-school{font-family:"IBM Plex Mono",monospace;font-size:.75rem;line-height:1.7;color:var(--accent)}
+#teaching h3{font-size:clamp(1.35rem,3vw,1.8rem);font-weight:400;line-height:1.25;margin-bottom:9px}
+#teaching p{color:var(--ink-dim);max-width:64ch}
+#teaching .teaching-links{display:flex;flex-wrap:wrap;gap:10px 24px;margin-top:14px;font-family:"IBM Plex Mono",monospace;font-size:.8rem}
+#teaching a{color:var(--accent);text-underline-offset:5px;text-decoration-thickness:1px}
+#teaching a:hover{text-decoration:none}
+#teaching .teaching-hub{display:inline-block;margin-top:24px;font-family:"IBM Plex Mono",monospace;font-size:.85rem}
+@media(max-width:720px){#teaching .teaching-course{grid-template-columns:1fr;gap:8px}}
 </style>
 </head>
 <body>
@@ -300,6 +312,34 @@ footer{padding:6vh 0 5vh;border-top:1px solid var(--line);margin-top:2vh}
       <li class="rv d2"><span class="s">University of Washington <em>— MS, Statistics</em></span><span class="p">2012 – 2014</span></li>
       <li class="rv d3"><span class="s">University of Minnesota <em>— BS, Math &amp; Statistics</em></span><span class="p">2008 – 2012</span></li>
     </ul>
+  </section>
+
+  <!-- TEACHING -->
+  <section id="teaching" aria-labelledby="teaching-title">
+    <div class="shead"><span class="num">04</span><h2 id="teaching-title">Teaching</h2></div>
+    <p class="teaching-intro">Statistics, data systems, and AI, taught through the business decisions they support.</p>
+    <article class="teaching-course">
+      <div class="teaching-school">Santa Clara University<br>Fall 2026</div>
+      <div><h3>Statistics for managerial decisions</h3>
+        <p>ISBA 3000: Quantitative Methods. Probability, statistical evidence, experiments, and regression through advertising, customer value, delivery, and AI cases.</p>
+        <div class="teaching-links"><a href="https://github.com/wgu9/wgu9/blob/main/teaching/README.md#santa-clara-university">Explore the course ↗</a></div>
+      </div>
+    </article>
+    <article class="teaching-course">
+      <div class="teaching-school">University of<br>San Francisco</div>
+      <div><h3>Data Stream Processing</h3>
+        <p>MSDS 682. Build and analyze real-time data pipelines with Apache Kafka, Python, and related data engineering tools.</p>
+        <div class="teaching-links"><a href="https://wgu9.github.io/msds-682-su2026/">Summer 2026 materials ↗</a><a href="https://github.com/wgu9/msds682-fall2023-data-streaming">Fall 2023 archive ↗</a></div>
+      </div>
+    </article>
+    <article class="teaching-course">
+      <div class="teaching-school">Stanford<br>Continuing Studies<br>2024 · 2025</div>
+      <div><h3>Data-driven leadership</h3>
+        <p>BUS 36, Summer 2024 and Spring 2025. Business analytics, managing data teams, and turning evidence into an organizational decision.</p>
+        <div class="teaching-links"><a href="https://github.com/wgu9/wgu9/blob/main/teaching/README.md#stanford-continuing-studies">Course focus ↗</a></div>
+      </div>
+    </article>
+    <a class="teaching-hub" href="https://github.com/wgu9/wgu9/blob/main/teaching/README.md">All teaching and public materials →</a>
   </section>
 
   <!-- FOOTER -->

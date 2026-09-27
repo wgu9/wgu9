@@ -25,17 +25,22 @@ I build production data and ML systems, lead the teams that ship them, and teach
 
 ### Teaching
 
-I teach applied data and AI courses that connect technical foundations with production practice.
+I teach statistics, data systems, and AI through the business decisions they support.
 
-**Public course materials**
+**[Explore my teaching](https://github.com/wgu9/wgu9/blob/main/teaching/README.md)** · Course overviews, current teaching, and public materials
 
-- **[MSDS 682: Data Stream Processing — Summer 2026](https://wgu9.github.io/msds-682-su2026/)** · University of San Francisco · [Course repository](https://github.com/wgu9/msds-682-su2026)
+**Santa Clara University · Fall 2026**<br>
+[ISBA 3000: Quantitative Methods](https://github.com/wgu9/wgu9/blob/main/teaching/README.md#santa-clara-university)<br>
+Statistics and descriptive analytics for managerial decisions, using advertising, delivery, and AI examples.
 
-**Other courses taught**
+**Public course materials · University of San Francisco**<br>
+MSDS 682: Data Stream Processing
 
-- **BUS 36** · Summer 2024 and Spring 2025
+- **[Summer 2026](https://wgu9.github.io/msds-682-su2026/)** · [Course repository](https://github.com/wgu9/msds-682-su2026)
+- **[Fall 2023](https://github.com/wgu9/msds682-fall2023-data-streaming)** · [Lecture notes and notebooks](https://github.com/wgu9/msds682-fall2023-data-streaming/tree/main/docs)
 
-Additional public course materials will be added as they are released.
+**Stanford Continuing Studies · BUS 36**<br>
+Summer 2024 and Spring 2025. Data-driven leadership, business analytics, and managing data teams. [Course focus](https://github.com/wgu9/wgu9/blob/main/teaching/README.md#stanford-continuing-studies)
 
 ### Open Source Contributions
 
